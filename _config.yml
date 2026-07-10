@@ -1,0 +1,4 @@
+coursename: "ECE 335"
+baseurl: "/ece335-fall2026"
+markdown: kramdown
+highlighter: rouge
