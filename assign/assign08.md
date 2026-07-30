@@ -10,7 +10,7 @@ title: "Assignment 8"
 Book Questions from *How To Prove It - 3rd ed.*
 ===============================================
 
-6.3.1 (pg. 299), 6.3.6 (pg. 300)
+6.3.1 (pg. 299), 6.3.6 (pg. 300), 6.3.17 (pg. 301)
 
 4.1.8 (pg. 181)
 
@@ -22,6 +22,8 @@ Book Questions from *How To Prove It - 3rd ed.*
 > 6.3.1 - Write out the first few values for *n* = 1, 2, 3, 4, 5 and notice a pattern relating to *n*. Then prove it using induction.
 > 
 > 6.3.6 - Straight forward application of proof by induction.
+> 
+> 6.3.17 - Write out the first few values for *n* = 1, 2, 3, 4, 5 and notice a pattern relating to *n*. Then prove it using induction noting that step 3 is *given* by the recursion formula.
 > 
 > 4.1.8 - To prove the theorem we must show that each side is a *subset* of the other, i.e. that equality means if and only if. Thus choose an arbitrary element from the *Cartesian product* of one side and show it is an element of the *Cartesian product* of the other side. Note that one direction will simply be the reverse reasoning of the other.
 > 
