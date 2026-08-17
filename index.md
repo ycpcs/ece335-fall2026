@@ -18,23 +18,22 @@ Welcome to the website for ECE 335, Discrete Mathematics with Applications, at Y
 
 ## News
 * **Aug 25** - Welcome back!
-
-
-<!--
-* **Aug 26** - Welcome back!
-* **Sept 4** - [Assignment 1](assign/assign01.html) Due. Submit to Canvas by **11:59pm Sept 6**
-* **Sept 16** - [Assignment 2](assign/assign02.html) Due. Submit to Canvas by **11:59pm Sept 18**
-* **Sept 18 - EXAM I**
-* **Sept 30** - [Assignment 3](assign/assign03.html) Due. Submit to Canvas by **11:59pm Oct 2**
-* **Oct 7** - [Assignment 4](assign/assign04.html) Due. Submit to Canvas by **11:59pm Oct 9**
-* **Oct 9 - EXAM II**
-* **Oct 14 - NO CLASS - FALL BREAK**
-* **Oct 23** - [Assignment 5](assign/assign05.html) Due. Submit to Canvas by **11:59pm Oct 25**
-* **Nov 4** - [Assignment 6](assign/assign06.html) Due. Submit to Canvas by **11:59pm Nov 6**
-* **Nov 6 - EXAM III**
-* **Nov 18** - [Assignment 7](assign/assign07.html) Due. Submit to Canvas by **11:59pm Nov 20**
+* **Sept 1** - [Assignment 1](assign/assign01.html) Due. Submit to Canvas by **11:59pm Sept 3**
+* **Sept 8** - [Assignment 2](assign/assign02.html) Due. Submit to Canvas by **11:59pm Sept 10**
+* **Sept 10 - EXAM I**
+* **Sept 22** - [Assignment 3](assign/assign03.html) Due. Submit to Canvas by **11:59pm Sept 24**
+* **Sept 29** - [Assignment 4](assign/assign04.html) Due. Submit to Canvas by **11:59pm Oct 1**
+* **Oct 1 - EXAM II**
+* **Oct 13 - NO CLASS - FALL BREAK**
+* **Oct 10** - [Assignment 5](assign/assign05.html) Due. Submit to Canvas by **11:59pm Oct 15**
+* **Oct 20** - [Assignment 6](assign/assign06.html) Due. Submit to Canvas by **11:59pm Oct 22**
+* **Oct 22 - EXAM III**
+* **Nov 3** - [Assignment 7](assign/assign07.html) Due. Submit to Canvas by **11:59pm Nov 5**
+* **Nov 10** - [Assignment 8](assign/assign08.html) Due. Submit to Canvas by **11:59pm Dec 12**
+* **Nov 12 - EXAM IV**
+* **Nov 24** - [Assignment 9](assign/assign09.html) Due. Submit to Canvas by **11:59pm Dec 26**
 * **Nov 27 - NO CLASS - THANKSGIVING BREAK**
-* **Dec 2** - [Assignment 8](assign/assign08.html) Due. Submit to Canvas by **11:59pm Dec 4**
-* **Dec 4 - EXAM IV**
-* **Dec 15 - (optional) FINAL EXAM - 12:30-2:30pm**
+* **Dec 1** - [Assignment 10](assign/assign10.html) Due. Submit to Canvas by **11:59pm Dec 3**
+* **Dec 3 - EXAM IV**
+* **Dec 15 - (optional) FINAL EXAM - 2:45-4:45pm**
 -->
