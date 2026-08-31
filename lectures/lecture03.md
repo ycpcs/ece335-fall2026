@@ -137,15 +137,15 @@ row the conclusion is also true. Thus the argument is **valid**.
 
 **Example 6**
 
-    Either John isn't stupid and he is lazy, or he is stupid.
-    John is stupid.
-    Therefore, John isn't lazy.
+    Either John isn't going to be in class and he is asleep, or he is going to be in class.
+    John is going to be in class.
+    Therefore, John isn't asleep.
 
 Let
 
-> *S*: "John is stupid."
+> *S*: "John is going to be in class."
 >
-> *L*: "John is lazy."
+> *L*: "John is asleep."
 
 Then our argument symbolically becomes
 
