@@ -191,19 +191,19 @@ Conditional Arguments
 
 **Example 8**
 
-    If Jones was convicted of murdering Smith, then he will go to jail.
-    Jones will go to jail.
-    Therefore, Jones was convicted of murdering Smith.
+    If Joe cheated on the exam, then he will receive an academic integrity violation.
+    Joe received an academic integrity violation.
+    Therefore, Joe cheated on the exam.
 
-> *C*: "Jones was convicted of murdering Smith."
+> *C*: "Joe cheated on the exam."
 
-> *J*: "Jones will go to jail."
+> *V*: "Joe received an academic integrity violation."
 
 Symbolically
 
-> *C* → *J*
+> *C* → *V*
 >
-> *J*
+> *V*
 >
 > ∴ *C*
 
