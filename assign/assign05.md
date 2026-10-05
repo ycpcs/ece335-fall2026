@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 5"
 ---
 
-**Due: Saturday, Oct 10th by 11:59pm** Late assignments will be penalized 20% per day.
+**Due: Tuesday, Oct 13th by 11:59pm** Late assignments will be penalized 20% per day.
 
 **Submit your self-graded assignment to Canvas by 11:59pm on Thursday, Oct 15th.**
 
