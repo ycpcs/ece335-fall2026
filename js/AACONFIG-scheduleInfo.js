@@ -50,7 +50,7 @@ courseInfo.classPeriods = [
 		reading: "2.3 pg. 78-86",
 	},
 	{
-		topic: new TripleTopic("Lecture 10: Proof Strategies", "lectures/lecture10.html", "Lecture 11: Proofs Involving Negations and Conditionals","lectures/lecture11.html", "Assignment 5 Due - 10/10","assign/assign05.html"),
+		topic: new TripleTopic("Lecture 10: Proof Strategies", "lectures/lecture10.html", "Lecture 11: Proofs Involving Negations and Conditionals","lectures/lecture11.html", "Assignment 5 Due - 10/13","assign/assign05.html"),
 		reading: "3.1 pg. 89-98, 3.2 pg. 100-111",
 	},
 	{
