@@ -80,7 +80,7 @@ courseInfo.classPeriods = [
 		reading: "4.1-4.3 pg. 163-186",
 	},
 	{
-		topic: new DoubleTopic("Exam 4 Review", "", "Assignment 8 Due","assign/assign8.html")
+		topic: new DoubleTopic("Exam 4 Review", "", "Assignment 8 Due","assign/assign08.html")
 	},
 	{
 		topic: new Topic("** Exam 4", "")
