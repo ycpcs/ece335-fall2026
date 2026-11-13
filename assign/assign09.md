@@ -25,5 +25,5 @@ Combinatorics I
 > 
 > 5.3.6 - Start by sketching a graph for *f*. Then consider what the *range* of *f* needs to be in order for the function to be *one-to-one*, i.e. so that no two *x* values produce the same *f(x)*. Then consider any further restrictions required to make *f* *onto*, i.e. so that *every* value of *B* has a corresponding *x*. With this restricted domain, determine *f* <sup>-1</sup>.
 >
-> 4. Consider how many choices there are per digit.
+> 4\. Consider how many choices there are per digit.
 
